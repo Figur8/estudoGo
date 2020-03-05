@@ -7,47 +7,47 @@ retorne o troco a ser dado.
 consumida calculando o valor final a ser pago.
 
 ## Exercícios básicos com estrutura de decisão:
-Faça um programa que receba 2 valores e retorne o maior entre eles.
+* Faça um programa que receba 2 valores e retorne o maior entre eles.
 
-Faça um programa que receba 4 valores e retorne o menor entre eles.
+* Faça um programa que receba 4 valores e retorne o menor entre eles.
 
-Faça um programa que verifique se um número é impar.
+* Faça um programa que verifique se um número é impar.
 
-Faça um programa que receba 3 valores que representarão os lados de um triângulo e verifique se os
+* Faça um programa que receba 3 valores que representarão os lados de um triângulo e verifique se os
 valores formam um triângulo e classifique esse triângulo como:
 
-eqüilátero (3 lados iguais);
-isósceles (2 lados iguais);
-escaleno (3 lados diferentes).
-Lembre-se que para formar um triângulo:
+    * eqüilátero (3 lados iguais);
+    * isósceles (2 lados iguais);
+    * escaleno (3 lados diferentes).
+    * Lembre-se que para formar um triângulo:
 
-nenhum dos lados pode ser igual a zero;
-um lado não pode ser maior do que a soma dos outros dois;
-Utilize a estrutura if para fazer um programa que retorne o nome de um produto a partir do código do
+        * Nenhum dos lados pode ser igual a zero;
+        * Um lado não pode ser maior do que a soma dos outros dois;
+* Utilize a estrutura if para fazer um programa que retorne o nome de um produto a partir do código do
 mesmo. Considere os seguintes códigos:
 001 ? Parafuso;
 002 ? Porca;
 003 ? Prego;
 Para qualquer outro código indicar ?Diversos?.
 
-Refaça o exercício anterior usando a estrutura switch.
-Exercícios básicos com estrutura de repetição:
-Faça um programa que utilize a estrutura while para ler 50 números e calcule e exiba a média aritmética
+* Refaça o exercício anterior usando a estrutura switch.
+# Exercícios básicos com estrutura de repetição:
+* Faça um programa que utilize a estrutura while para ler 50 números e calcule e exiba a média aritmética
 deles.
 
-Refaça o programa anterior utilizando a estrutura do while.
+* Refaça o programa anterior utilizando a estrutura do while.
 
-Refaça novamente o exercício usando a estrutura for.
+* Refaça novamente o exercício usando a estrutura for.
 
-Exercícios que utilizam vetores:
-Faça um programa que receba 10 valores inteiros e os coloque em um vetor. Em seguida exiba-os em
+# Exercícios que utilizam vetores:
+* Faça um programa que receba 10 valores inteiros e os coloque em um vetor. Em seguida exiba-os em
 ordem inversa à ordem de entrada.
 
-Faça um programa que utilize uma estrutura de repetição para ler 50 números armazenando-os em um
+* Faça um programa que utilize uma estrutura de repetição para ler 50 números armazenando-os em um
 vetor e calcule e exiba a média aritmética deles. Em seguida o programa deve apresentar todos os valores
 armazenados no vetor que sejam menores que a média.
 
-Os exercícios seguintes deve ser usado o seguinte array para a resolução:
+#### Os exercícios seguintes deve ser usado o seguinte array para a resolução:
 
 int a [] ={32,45,89,66,12,35,10,96,38,15,13,11,65,81,35,64,16,89,54,19};
 O vetor b deve se tornar uma cópia do vetor a.
